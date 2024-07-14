@@ -1,1 +1,1 @@
-# Econometrics---Course-Assignment
+# Econometrics-Course-Assignment
